@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,9 +8,15 @@
     <title>prueba</title>
 </head>
 <body>
-    <footer>
+  
+
+
+<p>jbcfehbfjhbcerhbf4jr</p>
+</body>
+
+<footer>
     
     <h3>hola</h3>
     </footer>
-</body>
 </html>
+
